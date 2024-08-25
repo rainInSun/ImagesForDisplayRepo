@@ -3,3 +3,5 @@
 <img src="https://github.com/rainInSun/ImagesForDisplayRepo/blob/master/qtextendcomponents_galleryview.gif"/>
 <br/>
 <img src="https://github.com/rainInSun/ImagesForDisplayRepo/blob/master/qtextendcomponents_3dpreview.gif"/>
+<br/>
+<img src="https://github.com/rainInSun/ImagesForDisplayRepo/blob/master/qtextendcomponents_scenetransition.gif"/>
